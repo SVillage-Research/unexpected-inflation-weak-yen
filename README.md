@@ -32,8 +32,15 @@ SVillage（https://s-v.jp.net）の次の2本の記事で使った数値と図�
 
 各データの取得元URLは、ノートブックの各セルのコメントに記載しています。
 
+## ライセンス
+
+- ノートブック（コード）：MITライセンス（`LICENSE` を参照）。
+- `data/` のCSV：各統計の出所の利用条件に従います。日本の官公庁の統計（内閣府・総務省・財務省・厚生労働省・日本銀行）は、各機関の利用規約（政府標準利用規約〈第2.0版〉など）に従って、出典を明記して利用できます。FRED経由の系列（IMF・米連邦準備制度）は、それぞれの提供元の条件に従ってください。
+
 ## English summary
 
 Data and a Colab notebook that reproduce the figures and key numbers in two SVillage articles (in Japanese) on unexpected inflation and Japanese government debt, and on who benefits from the weak yen. All data were retrieved from official Japanese statistics (Cabinet Office, MIC, MOF, MHLW, Bank of Japan) and FRED on 30 September 2026.
+
+Code: MIT License. Data: subject to the terms of each original source.
 
 © SVillage
